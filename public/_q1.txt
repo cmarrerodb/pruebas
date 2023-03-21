@@ -1,0 +1,183 @@
+Array
+(
+    [id_idioma] => 1
+    [expresion] => 3_min_ago
+    [traduccion] => 3 min ago
+)
+
+1
+2
+Array
+(
+    [id_idioma] => 1
+    [expresion] => 3_min_ago
+    [traduccion] => 3 min ago
+)
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [_method] => patch
+)
+-------------------------
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [_method] => patch
+)
+*************************
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [_method] => patch
+)
+..........................
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [_method] => patch
+)
++++++++++++++++++++++++++++++++
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [activo] => 0
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [activo] => 0
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [activo] => 0
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [activo] => 0
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [activo] => 0
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [activo] => 0
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 40
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [activo] => 1
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 40
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [activo] => 1
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [activo] => 1
+    [_method] => patch
+)
+
+Array
+(
+    [id] => 39
+    [id_idioma] => 2
+    [expresion] => 1_hours_ago
+    [traduccion] => hace 1 hora
+    [activo] => 1
+    [_method] => patch
+)
+
